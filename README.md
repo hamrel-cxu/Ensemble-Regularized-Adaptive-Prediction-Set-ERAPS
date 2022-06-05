@@ -10,3 +10,6 @@
 ## Documentation
 - Detailed documentation will be provided soon.
 - The Table below compares `ERAPS` vs. three competing methods on the [MelbournePedestrian dataset](https://www.timeseriesclassification.com/description.php?Dataset=MelbournePedestrian), where we can see that ERAPS always maintains valid marginala coverage with much smaller prediction sets in some cases.
+
+
+...picture...
