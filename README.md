@@ -1,5 +1,5 @@
 # Ensemble Regularized Adaptive Prediction Set ERAPS
-> Implementation and experiments based on the paper [Conformal prediction set for time-series](). The current paper is accepted by ...
+> Implementation and experiments based on the paper [Conformal prediction set for time-series](). The current paper is strongly accepted by the Workshop on Distribution-Free Uncertainty Quantification at ICML 2022
 
 > Please direct all implementation-related inquiries to Chen Xu @ cxu310@gatech.edu.
 
