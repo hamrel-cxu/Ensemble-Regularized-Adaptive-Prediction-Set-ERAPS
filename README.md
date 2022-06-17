@@ -5,6 +5,16 @@
 
 > Citation:
 ```
+  @misc{xuERPAS2022,
+  doi = {10.48550/ARXIV.2206.07851},
+  url = {https://arxiv.org/abs/2206.07851},
+  author = {Xu, Chen and Xie, Yao},
+  keywords = {Machine Learning (stat.ML), Machine Learning (cs.LG), Methodology (stat.ME), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Conformal prediction set for time-series},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 
 ```
 ## Documentation
